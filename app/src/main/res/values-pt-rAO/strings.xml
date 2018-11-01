@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Location AndViews</string>
+    <string name="do_magic">magia</string>
+    <string name="hello">hola</string>
+    <string name="go_to_second">secondo</string>
+    <string name="passing_an_object_to_the_second_activity">passar objects</string>
+    <string name="name">nome</string>
+    <string name="gender">sexo</string>
+</resources>

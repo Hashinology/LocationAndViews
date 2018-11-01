@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Location AndViews</string>
+    <string name="do_magic" translatable="false">Do magic</string>
+    <string name="hello">Hello</string>
+    <string name="go_to_second" translatable="false">Go to Second</string>
+    <string name="passing_an_object_to_the_second_activity" translatable="false">second_activity</string>
+    <string name="name" translatable="false">name</string>
+    <string name="gender" translatable="false">gender</string>
+
+</resources>
